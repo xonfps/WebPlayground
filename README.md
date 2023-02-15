@@ -1,2 +1,3 @@
 # WebPlayground
-WebPlayground is a web dev project to explore &amp; experiment new web tech. With interactive examples &amp; code snippets of HTML, CSS, JavaScript &amp; more, it's a safe space for prototyping &amp; learning. Perfect for all levels, it's where you can play &amp; experiment with the latest web tech.
+
+"WebPlayground" is a project that I've created to help me and other developers explore and experiment with new features in web development. It's a collection of interactive examples and code snippets that demonstrate various web technologies like HTML, CSS, JavaScript, and more. I've built this project to be a safe place to test and prototype new ideas and techniques, making it an invaluable tool for learning and advancing in the field of web development. Whether you're a seasoned professional or just starting out, WebPlayground is the perfect place to play and experiment with the latest web technologies.
