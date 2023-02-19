@@ -6,17 +6,37 @@
     </head>
     <body>
 
+        <meta name="Description" content="Informations about xonfps">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <!--Comment test-->
-        <h1>All my contact's information in one website</h1>
+
+        <h1><i>All</i> my contact's information in one website</h1>
         <hr>
+
         <a href="https://www.linkedin.com/in/isaquesouz1/" title="My LinkedIn profile" target="_blank">
         <h2>LinkedIn</h2>
         </a>
+
+        <iframe src="https://www.bing.com" width="600" height="350" frameborder="0"></iframe>
+
         <a href="mailto:isaquepow12@gmail.com" title="My email" target="_blank">
-            <h2>Email</h2>
+            <button style="background-color: darkgrey; color: rgb(52, 103, 0); border-radius: 5px;">Email</button>
         </a>
+
+        <button onclick="doSomething()">Click Me</button>
+
+        <p id="test">Hello There!</p>
+
+        <script>
+            function doSomething(){
+                document.getElementById("test").innerHTML = "GoodBye"
+            }
+        </script>
+
         <a href = "page2.html" title="This take you to page 2">
             <h4>Go to page 2</h4>
         </a>
+
     </body>
 </html>
